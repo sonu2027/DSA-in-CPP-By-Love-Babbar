@@ -1,0 +1,1 @@
+In this repo I uploaded all my CSS files and folders which I was learing in my 2nd semester of college. That was my begining journey of learning CSS.
